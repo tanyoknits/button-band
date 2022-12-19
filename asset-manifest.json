@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/button-band/static/css/main.d83af84f.css",
+    "main.js": "/button-band/static/js/main.c80bd4f1.js",
+    "index.html": "/button-band/index.html",
+    "main.c80bd4f1.js.map": "/button-band/static/js/main.c80bd4f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d83af84f.css",
+    "static/js/main.c80bd4f1.js"
+  ]
+}
